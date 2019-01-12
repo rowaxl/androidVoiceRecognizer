@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VoiceRecognizerSample</string>
+    <string name="button_record">Record</string>
+    <string name="button_stop">Stop</string>
+    <string name="log_recognize_result">Result: </string>
+    <string name="lang_jp">"put your language code"</string>
+</resources>
